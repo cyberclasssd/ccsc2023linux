@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-	char bob[50] = "picoCTF{stringz_meow}";
+	char bob[50] = "flag{stringz_meow}";
 
 
 int main() {
